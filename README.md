@@ -1,5 +1,5 @@
 <h1>Estudos Back-end JAVA</h1>
-Estudos de classes baseados nas explicações do Vai na Web + exercícios de fixação para assimilação do conteúdo apresentado em aula.
+• Estudos de classes baseados nas explicações do Vai na Web + exercícios de fixação para assimilação do conteúdo apresentado em aula.
 </br>
 
 <p align = center>
